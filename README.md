@@ -1,2 +1,1 @@
-# DeepNeuralNetwork
-Not yet complete
+# DeepNeuralNetwork - *Not yet complete*
